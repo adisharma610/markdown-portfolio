@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* linux
+  * rhcsa
+  * rhce
+* cloud
+* devops
+* python
+* job  
